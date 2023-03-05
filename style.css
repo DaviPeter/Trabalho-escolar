@@ -59,4 +59,9 @@ section p {
     section {
         width: 80%;
     }
+
+    section p {
+        text-align: justify;
+        font-size: 1.1rem;
+    }
 }
